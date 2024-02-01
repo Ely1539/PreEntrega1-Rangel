@@ -1,0 +1,65 @@
+
+body {
+    background-image: url("https://media.wired.com/photos/5b806816be2f8d3a624b77c9/191:100/w_1280,c_limit/DIVO1.jpg");
+    background-size: cover; 
+  }
+  .item{
+    height: 4vh;
+    width: 20vh;
+    background-color:#436850 ;
+    color: white;
+    border-radius: 10px;
+    border:1px solid green;
+    opacity: 0.90;
+    margin: 16vh 20px 0 0;
+  }
+  .item:hover {
+    background-color: #45a049;
+  }
+  .container-fluid{
+    margin-top: 17vh;
+    display:Flex;
+    position: absolute;
+  }  
+  .categorias{
+    display: flex;
+    justify-content: space-between;
+}
+  .cart{
+    margin: 18vh 0 0 15vh
+  }
+  .BotonCart{
+    background-color:#232D3F;
+    width:15vh;
+  }
+  .BotonCart:hover {
+    background-color: #45a049;
+  }
+  .contador{
+    color: green;
+    background-color: #ADBC9F;
+  }
+  .contador:hover {
+    background-color: #45a049;
+  }
+  .greeting{
+    color: white;
+    margin:4vh 0 0 70vh ;
+    border: 1px solid  green;
+    background-color:#436850;
+    opacity: 0.70;
+  }
+  .btn{
+    background-color:#436850;
+    color:white;
+    margin-right: 700px;
+    opacity: 0.90;
+  }
+  
+  .imgLogo{
+    margin-top: 12vh;
+    width:30vh;
+    height:25vh;
+    opacity: 0.80;
+    position: absolute;
+  }
