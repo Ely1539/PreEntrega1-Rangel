@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "title": "Toxic shine Cera Abrillantadora Extreme Detail Shine",
+        "size": "600ml",
+        "price": 6800,
+        "stock": 10,
+        "img": "1.png",
+        "category": "exterior"
+    },
+    {
+        "id": 2,
+        "title": "Drop Cleaner Strong Limpiador Multipropósito De Baja Dilución",
+        "size": "500 ml",
+        "price": 4500,
+        "stock": 10,
+        "img": "2.png",
+        "category": "interior"
+    },
+    {
+        "id": 3,
+        "title": "Toxic Shine Bug Remover x 600 ml Altamente Concentrado",
+        "size": "250 ml",
+        "price":6200,
+        "stock": 8,
+        "img": "3.png",
+        "category": "exterior"
+    },
+    {
+        "id": 4,
+        "title": "Pistola Foam Chemical Guys 2000 Alta Presion ",
+        "size": "600 cc",
+        "price": 16000,
+        "stock": 10,
+        "img": "4.png",
+        "category": "insumos"
+    },
+    {
+        "id": 5,
+        "title": "Drop Detailing Shampoo Snow Foam Black Label",
+        "size": "500 ml",
+        "price": 4000,
+        "stock": 14,
+        "img": "5.png",
+        "category": "exterior"
+    },
+    {
+        "id": 6,
+        "title": " Drop Detailing Kit De Lavado Basico Shampoo + Pulitura",
+        "size": "500ml",
+        "price": 9500,
+        "stock": 10,
+        "img": "6.png",
+        "category": "kit"
+    },
+    {
+        "id": 7,
+        "title": " Drop Detailing Silicona De Interior Brillo Dressing Soft",
+        "size": "500 ml",
+        "price": 10000,
+        "stock": 8,
+        "img": "7.png",
+        "category": "interior"
+    },
+    {
+        "id": 8,
+        "title": "Kit De Pulitura Menzerna 3 Pasos Todo Tipo De Vehiculo ",
+        "size": "250 ml",
+        "price": 125000,
+        "stock": 10,
+        "img": "8.png",
+        "category": "exterior"
+    },
+    {
+        "id": 9,
+        "title": "Glänzen Detailing Products | Kit Combo Lavado Intermedio ",
+        "size": "600ml",
+        "price": 27600,
+        "stock": 5,
+        "img": "9.png",
+        "category": "kit"
+    },
+    {
+        "id": 10,
+        "title": "Kit De Pad Para Pulir Corte Bajo Medio Alto ",
+        "size": "8",
+        "price": 13600,
+        "stock": 10,
+        "img": "10.png",
+        "category": "insumos"
+    },
+    {
+        "id": 11,
+        "title": "Makker Vonixx Pulidor Y Abrillantador De Pintura A Mano 5",
+        "size": "500ml",
+        "price": 25000,
+        "stock": 10,
+        "img": "11.png",
+        "category": "exterior"
+    },
+    {
+        "id": 12,
+        "title": "3D Compuesto Speed 3 En 1 Pulidor Abrillantador Protector ",
+        "size": "1000 ml",
+        "price": 50000,
+        "stock": 6,
+        "img": "12.png",
+        "category": "exterior"
+    },
+    {
+        "id": 13,
+        "title": "Kit de Lavado Completo Toxic Shine Incluye Cuidado Interior Y Exterior ",
+        "size": "600 Ml",
+        "price": 20000,
+        "stock": 6,
+        "img": "13.png",
+        "category": "kit"
+
+    },
+    {
+        "id": 14,
+        "title": "Cera Rápida De Carnauba Ilussion Wax Toxic Shine 600cc",
+        "size": "600 ml",
+        "price": 6250,
+        "stock": 5,
+        "img": "14.png",
+        "category": "exterior"
+    },
+   {
+        "id": 15,
+        "title": "Toxic Shine Atomic Shampoo Alcalino Pre Tratamiento 600cc",
+        "size": "600ml",
+        "price": 5900,
+        "stock":10 ,
+        "img": "15.png",
+        "category": "exterior"
+    },
+    {
+        "id": 16,
+        "title": "Pulidora Roto Orbital Rupes 4 Velocidades ",
+        "size": "medium",
+        "price": 250000,
+        "stock": 3,
+        "img": "16.png",
+        "category": "insumos"
+    },
+    {
+        "id": 17,
+        "title": "Guante De Microfibra Toxic Shine Kit x 3 Nivel Extrasuave Cero Rayas ",
+        "size": "medium",
+        "price": 2000,
+        "stock": 15,
+        "img": "17.png",
+        "category": "insumos"
+    },
+    
+    {
+        "id": 18,
+        "title": "Paño De Microfibra Toxic Shine Secado Ultra Rapido",
+        "size": "large",
+        "price": 10000,
+        "stock": 12,
+        "img": "18.png",
+        "category": "insumos"
+    },
+    
+    {
+        "id": 19,
+        "title": "Kit x 3 Paños De Microfibra Toxic Shine Secado Ultra Rapido",
+        "size": "Large",
+        "price": 25000,
+        "stock": 12,
+        "img": "19.png",
+        "category": "insumos"
+    },
+    
+    {
+        "id": 20,
+        "title": "Kit Pulidora Roto Orbital SPTA + Acessorios",
+        "size": "large",
+        "price": 350000,
+        "stock": 2,
+        "img": "20.png",
+        "category": "insumos"
+    },
+    
+    {
+        "id": 21,
+        "title": "Toxic Shine Banana Shampoo x 600 ml. Acabado Brillo Espejo",
+        "size": "600 ml",
+        "price": 5000,
+        "stock": 20,
+        "img": "21.png",
+        "category": "exterior"
+    },
+    {
+        "id": 22,
+        "title": "Apc K78 Limpiador Multiproposito Interiores",
+        "size": "600 ml",
+        "price": 5600,
+        "stock": 10,
+        "img": "22.png",
+        "category": "interior"
+    },
+    {
+        "id": 23,
+        "title": "Oganizador De Herramientas MaxShine Bolsa + Cinturon",
+        "size": "xl",
+        "price": 85000,
+        "stock": 5,
+        "img": "23.png",
+        "category": "insumos"
+    },
+    {
+        "id": 24,
+        "title": "Oganizador De Herramientas 3D Bolsa + Cinturon De Metal",
+        "size": "l",
+        "price": 65000,
+        "stock": 4,
+        "img": "24.png",
+        "category": "insumos"
+    },
+    {
+        "id": 25,
+        "title": "Kit Pinceles Cepillos De Espuma Para Rejillas De Aire Acondicionado Vonixx",
+        "size": "l",
+        "price": 7000,
+        "stock": 10,
+        "img": "25.png",
+        "category": "interior"
+    },
+    {
+        "id": 26,
+        "title": "Dreams Detailing Interior dressing Para Cuero y Tableros",
+        "size": "500 ml",
+        "price": 8160,
+        "stock": 10,
+        "img": "26.png",
+        "category": "interior"
+    },
+    {
+        "id": 27,
+        "title": "Interior Renewer Renovador Interiores Drop Detailing 500 Ml",
+        "size": "500 ml",
+        "price": 4200,
+        "stock": 10,
+        "img": "27.png",
+        "category": "interior"
+    },
+    {
+        "id": 27,
+        "title": "Kit De Limpieza Interior Work Stuff Importado",
+        "size": "600 ml",
+        "price": 54200,
+        "stock": 8,
+        "img": "27.png",
+        "category": "kit"
+    },
+    {
+        "id": 28,
+        "title": "Kit Detailing Interior y Exterior 14 Piezas Relentless Drive ",
+        "size": "500 ml",
+        "price": 4200,
+        "stock": 10,
+        "img": "28.png",
+        "category": "kit"
+    },
+    {
+        "id": 29,
+        "title": "Kit de Limpieza Completo Toxic Shine Cuidado Interior  ",
+        "size": "500 ml",
+        "price": 24200,
+        "stock": 5,
+        "img": "29.png",
+        "category": "kit"
+    }
+    
+]

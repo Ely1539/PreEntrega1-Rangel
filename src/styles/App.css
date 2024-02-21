@@ -1,65 +1,162 @@
 
 body {
     background-image: url("https://media.wired.com/photos/5b806816be2f8d3a624b77c9/191:100/w_1280,c_limit/DIVO1.jpg");
-    background-size: cover; 
-  }
-  .item{
-    height: 4vh;
-    width: 20vh;
-    background-color:#436850 ;
-    color: white;
-    border-radius: 10px;
-    border:1px solid green;
-    opacity: 0.90;
-    margin: 16vh 20px 0 0;
-  }
-  .item:hover {
-    background-color: #45a049;
-  }
-  .container-fluid{
-    margin-top: 17vh;
-    display:Flex;
+    background-size: cover;
     position: absolute;
+      font-size: 16px; 
+      width:100%;
+  }
+ 
+  .container-fluid{
+    margin-top: 1vh;
+    text-aling:center;
+    background-color: black;
+    height:12vh
   }  
   .categorias{
     display: flex;
-    justify-content: space-between;
+  justify-content: space-between;
 }
-  .cart{
-    margin: 18vh 0 0 15vh
-  }
-  .BotonCart{
-    background-color:#232D3F;
-    width:15vh;
-  }
-  .BotonCart:hover {
-    background-color: #45a049;
-  }
-  .contador{
-    color: green;
-    background-color: #ADBC9F;
-  }
-  .contador:hover {
-    background-color: #45a049;
-  }
-  .greeting{
-    color: white;
-    margin:4vh 0 0 70vh ;
-    border: 1px solid  green;
-    background-color:#436850;
-    opacity: 0.70;
-  }
   .btn{
     background-color:#436850;
     color:white;
-    margin-right: 700px;
     opacity: 0.90;
+    width:21vh;
+    margin-right: 15px;
+
   }
+
+  li{
+    list-style-type: none;
+  }
+
+.itemContainer {
+  margin-top: 20vh;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    border: 2px solid #ccc; 
   
-  .imgLogo{
-    margin-top: 12vh;
-    width:30vh;
-    height:25vh;
-    opacity: 0.80;
-    position: absolute;
-  }
+}
+
+.btnCart{
+  margin: 5px;
+  border: 2px solid #ccc; 
+}
+.itemContainer:hover,.btnClose:hover,.Reset:hover{
+  transform: scale(1.02);
+  background-color:rgba(129, 128, 128, 0.5);
+
+}
+ .Title {
+  font-size: 1.5rem; 
+  color:white;
+  text-align: center;
+}
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(3, auto); 
+  gap: 10px; 
+  margin-left:10vh;
+  width:40%;
+}
+ .cart{
+  background-color:#436850;
+  color:white;
+  opacity: 0.90;
+  width:8vh;
+  height:4vh;
+ }
+ .footerTwo{
+  margin:50px;
+  background-color:#436850;
+  color:white;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+ }
+ .Less ,.Count, .Plus{
+  padding:5px;
+  color:white;
+  background-color:purple;
+  margin-left:4px;
+
+ }
+ .Reset{
+  background-color:purple;
+  width:10vh;
+  margin-left: 2px;
+  color:white;
+ }
+
+ .card{
+display:flex;
+align-items:center;
+margin-top:10vh;
+background-color: rgba(0, 66, 52, 0.5);
+color:white;
+font-size:2vh;
+border:2px solid green;
+ }
+
+ h1{
+  margin:12vh 0vh 0vh 0vh;
+  background-color: rgba(0, 66, 52, 0.8);
+  width:132vh;
+  color:rgba(255, 255, 255, 0.6) ; 
+  position: absolute;
+  left: 26vh; 
+ }
+ h3{
+  background-color: rgba(0, 66, 52, 0.9);
+  margin:18vh;
+  color: white;
+  width:120vh;
+  position: absolute;
+  left: 35vh; 
+ }
+ .imgLogo{
+  margin:15vh 10vh ;
+  height:19vh;
+  position: absolute;
+  opacity: 0.6; 
+ 
+ }
+
+.itemContainer {
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+}
+.imgContainer{
+margin-top:8vh;
+margin-left:25vh;
+  border:1px solid green;
+}
+.DetailCardContainer{
+  display:flex;
+margin-top:11vh;
+text-align: center;
+}
+.cardDetail{
+  margin: 17vh 0 0 85vh;
+width:70vh;
+height:35vh;
+  background-color: rgba(0, 95, 52, 0.5);
+  color:white;
+  font-size:2.5vh;
+  border:2px solid green;
+  position:absolute;
+}
+.btnClose{
+background-color:purple;
+width:25vh;
+height:5vh;
+margin: 8vh 0 0 145vh;
+color:white;
+position:absolute;
+}
+.CartRs,.Checkout,.NotFound{
+  margin-top:40vh
+}
+
