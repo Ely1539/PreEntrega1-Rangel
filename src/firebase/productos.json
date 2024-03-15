@@ -1,278 +1,242 @@
 [
     {
-        "id": 1,
         "title": "Toxic shine Cera Abrillantadora Extreme Detail Shine",
         "size": "600ml",
         "price": 6800,
         "stock": 10,
-        "img": "1.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/1.png?alt=media&token=95d0a2f7-aba1-4155-9ca7-ea8f8c3565f6",
         "category": "exterior"
     },
     {
-        "id": 2,
         "title": "Drop Cleaner Strong Limpiador Multipropósito De Baja Dilución",
         "size": "500 ml",
         "price": 4500,
         "stock": 10,
-        "img": "2.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/2.webp?alt=media&token=4aafd5ee-267b-4674-8965-f92e057d2b8d",
         "category": "interior"
     },
     {
-        "id": 3,
         "title": "Toxic Shine Bug Remover x 600 ml Altamente Concentrado",
         "size": "250 ml",
-        "price":6200,
+        "price": 6200,
         "stock": 8,
-        "img": "3.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/3.png?alt=media&token=95e64d28-3e04-49d7-ad4f-12f8e93af3dc",
         "category": "exterior"
     },
     {
-        "id": 4,
         "title": "Pistola Foam Chemical Guys 2000 Alta Presion ",
         "size": "600 cc",
         "price": 16000,
         "stock": 10,
-        "img": "4.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/4.jfif?alt=media&token=3076982a-c26b-442e-929f-2069d500dd15",
         "category": "insumos"
     },
     {
-        "id": 5,
         "title": "Drop Detailing Shampoo Snow Foam Black Label",
         "size": "500 ml",
         "price": 4000,
         "stock": 14,
-        "img": "5.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/5.png?alt=media&token=98d3e43a-2b12-4007-bf7b-b0dc2a202034",
         "category": "exterior"
     },
     {
-        "id": 6,
         "title": " Drop Detailing Kit De Lavado Basico Shampoo + Pulitura",
         "size": "500ml",
         "price": 9500,
         "stock": 10,
-        "img": "6.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/6.png?alt=media&token=c752770c-56d7-4ca3-b484-41d29c584fdb",
         "category": "kit"
     },
     {
-        "id": 7,
         "title": " Drop Detailing Silicona De Interior Brillo Dressing Soft",
         "size": "500 ml",
         "price": 10000,
         "stock": 8,
-        "img": "7.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/7.png?alt=media&token=7cff8562-71e8-449b-8d83-ad350f2f4336",
         "category": "interior"
     },
     {
-        "id": 8,
-        "title": "Kit De Pulitura Menzerna 3 Pasos Todo Tipo De Vehiculo ",
+        "title": " Drop Detailing Silicona De Interior Brillo Dressing Strong",
         "size": "250 ml",
-        "price": 125000,
+        "price": 12500,
         "stock": 10,
-        "img": "8.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/8.webp?alt=media&token=48de1057-5cfc-429d-b345-10c22aaaecf8",
         "category": "exterior"
     },
     {
-        "id": 9,
         "title": "Glänzen Detailing Products | Kit Combo Lavado Intermedio ",
         "size": "600ml",
         "price": 27600,
         "stock": 5,
-        "img": "9.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/9.png?alt=media&token=b77af81a-a1b1-4366-b3fe-59bafa94954c",
         "category": "kit"
     },
     {
-        "id": 10,
         "title": "Kit De Pad Para Pulir Corte Bajo Medio Alto ",
         "size": "8",
         "price": 13600,
         "stock": 10,
-        "img": "10.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/10.png?alt=media&token=765c0b7b-1131-44b1-ae94-906fd43dcf4d",
         "category": "insumos"
     },
     {
-        "id": 11,
         "title": "Makker Vonixx Pulidor Y Abrillantador De Pintura A Mano 5",
         "size": "500ml",
         "price": 25000,
         "stock": 10,
-        "img": "11.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/11.webp?alt=media&token=4d517004-0fb4-4c9e-a6c2-46a8d64349e5",
         "category": "exterior"
     },
     {
-        "id": 12,
         "title": "3D Compuesto Speed 3 En 1 Pulidor Abrillantador Protector ",
         "size": "1000 ml",
         "price": 50000,
         "stock": 6,
-        "img": "12.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/12.webp?alt=media&token=42d64c03-1c75-49e7-b03b-7bb73d379974",
         "category": "exterior"
     },
     {
-        "id": 13,
         "title": "Kit de Lavado Completo Toxic Shine Incluye Cuidado Interior Y Exterior ",
         "size": "600 Ml",
         "price": 20000,
         "stock": 6,
-        "img": "13.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/13.webp?alt=media&token=e31d2041-424d-4dcc-a216-992abad825c4",
         "category": "kit"
-
     },
     {
-        "id": 14,
         "title": "Cera Rápida De Carnauba Ilussion Wax Toxic Shine 600cc",
         "size": "600 ml",
         "price": 6250,
         "stock": 5,
-        "img": "14.png",
-        "category": "exterior"
-    },
-   {
-        "id": 15,
-        "title": "Toxic Shine Atomic Shampoo Alcalino Pre Tratamiento 600cc",
-        "size": "600ml",
-        "price": 5900,
-        "stock":10 ,
-        "img": "15.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/14.png?alt=media&token=7a0f7273-3d54-40cb-82a3-71bdb257cdb5",
         "category": "exterior"
     },
     {
-        "id": 16,
+        "title": "Toxic Shine Atomic Shampoo Alcalino Pre Tratamiento 600cc",
+        "size": "600ml",
+        "price": 5900,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/15.png?alt=media&token=226af1e7-186b-476e-a4f4-71b8082a7c30",
+        "category": "exterior"
+    },
+    {
         "title": "Pulidora Roto Orbital Rupes 4 Velocidades ",
         "size": "medium",
         "price": 250000,
         "stock": 3,
-        "img": "16.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/16.png?alt=media&token=9f4a9be9-9c45-4719-9d82-f871d8f3d5b6",
         "category": "insumos"
     },
     {
-        "id": 17,
         "title": "Guante De Microfibra Toxic Shine Kit x 3 Nivel Extrasuave Cero Rayas ",
         "size": "medium",
         "price": 2000,
         "stock": 15,
-        "img": "17.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/17.png?alt=media&token=6af9051d-9fbe-4dbe-88cb-39df71f689b9",
         "category": "insumos"
     },
-    
     {
-        "id": 18,
         "title": "Paño De Microfibra Toxic Shine Secado Ultra Rapido",
         "size": "large",
         "price": 10000,
         "stock": 12,
-        "img": "18.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/18.webp?alt=media&token=f308350b-39a4-4af6-acc4-5ae39d0fae0a",
         "category": "insumos"
     },
-    
     {
-        "id": 19,
         "title": "Kit x 3 Paños De Microfibra Toxic Shine Secado Ultra Rapido",
         "size": "Large",
         "price": 25000,
         "stock": 12,
-        "img": "19.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/19.png?alt=media&token=2088d605-a38e-456f-91c1-bf5cb62d3683",
         "category": "insumos"
     },
-    
     {
-        "id": 20,
         "title": "Kit Pulidora Roto Orbital SPTA + Acessorios",
         "size": "large",
         "price": 350000,
         "stock": 2,
-        "img": "20.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/20.png?alt=media&token=846e078d-453d-4151-b79a-e7b718f2aab5",
         "category": "insumos"
     },
-    
     {
-        "id": 21,
-        "title": "Toxic Shine Banana Shampoo x 600 ml. Acabado Brillo Espejo",
-        "size": "600 ml",
+        "title": " Drop Shampoo Ph Neutro Blue",
+        "size": "500 ml",
         "price": 5000,
         "stock": 20,
-        "img": "21.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/21.webp?alt=media&token=27bf1bea-100c-457b-8b72-eb93a41be1ad",
         "category": "exterior"
     },
     {
-        "id": 22,
         "title": "Apc K78 Limpiador Multiproposito Interiores",
         "size": "600 ml",
         "price": 5600,
         "stock": 10,
-        "img": "22.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/22.png?alt=media&token=4d67c8a3-f611-4f74-8c47-27010e53d31c",
         "category": "interior"
     },
     {
-        "id": 23,
         "title": "Oganizador De Herramientas MaxShine Bolsa + Cinturon",
         "size": "xl",
         "price": 85000,
         "stock": 5,
-        "img": "23.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/23.png?alt=media&token=1e735042-ab38-4db9-8271-8de4dc4d7c14",
         "category": "insumos"
     },
     {
-        "id": 24,
         "title": "Oganizador De Herramientas 3D Bolsa + Cinturon De Metal",
         "size": "l",
         "price": 65000,
         "stock": 4,
-        "img": "24.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/24.webp?alt=media&token=2e655fa5-2a7e-40ba-96fd-7f5803709ed4",
         "category": "insumos"
     },
     {
-        "id": 25,
         "title": "Kit Pinceles Cepillos De Espuma Para Rejillas De Aire Acondicionado Vonixx",
         "size": "l",
         "price": 7000,
         "stock": 10,
-        "img": "25.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/25.webp?alt=media&token=09fbc75c-6ccd-48ab-8582-9f4948a1afde",
         "category": "interior"
     },
     {
-        "id": 26,
         "title": "Dreams Detailing Interior dressing Para Cuero y Tableros",
         "size": "500 ml",
         "price": 8160,
         "stock": 10,
-        "img": "26.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/26.png?alt=media&token=24c40b97-f18a-4f59-baf8-9f8dad9b729e",
         "category": "interior"
     },
     {
-        "id": 27,
         "title": "Interior Renewer Renovador Interiores Drop Detailing 500 Ml",
         "size": "500 ml",
         "price": 4200,
         "stock": 10,
-        "img": "27.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/27.webp?alt=media&token=07eab914-7d9f-4dba-a924-9527b0d5f3b5",
         "category": "interior"
     },
     {
-        "id": 27,
-        "title": "Kit De Limpieza Interior Work Stuff Importado",
+        "title": "Kit De Limpieza Interior Good Stuff Importado",
         "size": "600 ml",
         "price": 54200,
         "stock": 8,
-        "img": "27.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/28..webp?alt=media&token=b833bf24-4aa0-4f8e-ad01-4210f8e16d11",
         "category": "kit"
     },
     {
-        "id": 28,
         "title": "Kit Detailing Interior y Exterior 14 Piezas Relentless Drive ",
         "size": "500 ml",
         "price": 4200,
         "stock": 10,
-        "img": "28.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/29.png?alt=media&token=bac779f4-fbc7-4d41-b761-03efdc91a20a",
         "category": "kit"
     },
     {
-        "id": 29,
-        "title": "Kit de Limpieza Completo Toxic Shine Cuidado Interior  ",
+        "title": "Kit de Limpieza Completo Toxic Shine Cuidado Exterior  ",
         "size": "500 ml",
-        "price": 24200,
+        "price": 44200,
         "stock": 5,
-        "img": "29.png",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2024-a7a2a.appspot.com/o/30.jpg?alt=media&token=d38ca9b4-23e5-4d7a-bf35-aeafa4dc8b5e",
         "category": "kit"
     }
-    
 ]

@@ -1,30 +1,29 @@
-import React ,{ useState, useEffect } from "react";
-import {useParams } from "react-router-dom";
-import  ItemList  from "./ItemList";
+import React, { useState, useEffect } from "react";
+import { useParams } from "react-router-dom";
+import ItemList from "./ItemList";
+import { getProducts } from "../firebase/firebase.js"
 
-  const ItemListContainer = () => {
-    const [products, setProducts] = useState([])
-    const { iid } =useParams()
-
+const ItemListContainer = () => {
+    const [products, setProducts] = useState([]);
+    const { cid } = useParams();
     useEffect(() => {
-        fetch('../data/productos.json')
-            .then(response => response.json())
-            .then(produ => {
-                if(iid){
-                 const filterProducts = produ.filter(prod=>prod.category==iid)
-                 setProducts(filterProducts)
-                }else{
-                   setProducts(produ)  
+        getProducts()
+            .then(prods => {
+                const productos = prods.filter(prod => prod.stock > 0)
+                if (cid) {
+                    const productosFiltrados = productos.filter(prod => prod.category == cid)
+                    setProducts(productosFiltrados)
+                } else {
+                    setProducts(productos)
                 }
-               
             })
-            .catch((error) => console.log(error))
-    }, [iid])
+            .catch((error) => console.log(error));
+    }, [cid]);
     return (
-        <div>
-            <ItemList products={products} />
+        <div className="gridContainer">
+            <ItemList products={products} plantilla="Item" />
         </div>
     )
 }
 
-export default ItemListContainer
+export default ItemListContainer;

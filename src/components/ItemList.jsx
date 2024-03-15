@@ -1,16 +1,18 @@
-import  Item  from "./Item"
-    const ItemList = ({ products }) => {
+import Item from "./Item";
+import ItemCart from "./ItemCart";
+
+const ItemList = ({ products, plantilla }) => {
     return (
         <>
-        <div className="gridContainer">
-
-  {products.map(prod => <Item product={prod} />)}
-
-        </div>
-          
+            {
+                plantilla === 'Item'
+                    ?
+                    products.map(prod => <Item key={prod.id} product={prod} />)
+                    :
+                    products.map(prod => <ItemCart key={prod.id} product={prod} />)
+            }
         </>
-
-    )
+    );
 }
 
-export default ItemList
+export default ItemList;
