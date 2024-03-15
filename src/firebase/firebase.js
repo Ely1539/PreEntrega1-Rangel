@@ -4,7 +4,7 @@ import { getFirestore, collection, addDoc, doc, getDocs, getDoc, updateDoc, dele
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAYExa9U_XWjZhR8CHBpdMOGHTr7_M3mnw",
+    apiKey: "",
     authDomain: "react-2024-a7a2a.firebaseapp.com",
     projectId: "react-2024-a7a2a",
     storageBucket: "react-2024-a7a2a.appspot.com",
